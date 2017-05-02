@@ -1,0 +1,29 @@
+{
+  "name": "twitter.js2",
+  "version": "1.0.0",
+  "description": "let's try",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobkjhan/twitterjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobkjhan/twitterjs/issues"
+  },
+  "homepage": "https://github.com/jacobkjhan/twitterjs#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "lodash": "^4.17.4",
+    "nodemon": "^1.11.0",
+    "nunjucks": "^3.0.0",
+    "path": "^0.12.7",
+    "volleyball": "^1.4.1"
+  }
+}
